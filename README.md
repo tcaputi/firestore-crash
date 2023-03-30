@@ -10,6 +10,7 @@
 2. Run the following commands
 
 ```
+npm install
 npm run init
 npm run crash # you may need to run this several times
 ```
